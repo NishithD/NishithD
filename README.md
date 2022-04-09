@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **AOSP, Web Dev.**
 
-- 📫 reach me@**nishithdasari100@gmail.com**
+- 📫 reach me-**nishithdasari100@gmail.com**
 
 - 📄 Know about me [https://www.linkedin.com/in/nishith-dasari-b72b78205/](https://www.linkedin.com/in/nishith-dasari-b72b78205/)
 
