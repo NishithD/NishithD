@@ -11,7 +11,7 @@
 
 - 📄 Know about me [https://www.linkedin.com/in/nishith-dasari-b72b78205/](https://www.linkedin.com/in/nishith-dasari-b72b78205/)
 
-- ⚡ Fun fact **I Sleep Alot(ALOT!!)**
+- ⚡ Fun fact **I sleep alot (ALOT!!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
