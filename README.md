@@ -11,7 +11,7 @@
 
 - 📄 Know about me [https://www.linkedin.com/in/nishith-dasari-b72b78205/](https://www.linkedin.com/in/nishith-dasari-b72b78205/)
 
-- ⚡ Fun fact **I'm From VIT! :')**
+- ⚡ Fun fact **I Sleep Alot(ALOT!!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
