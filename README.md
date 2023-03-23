@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishith!</h1>
+<h1 align="center">Nishith Dasari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishithd&label=Profile%20views&color=0e75b6&style=flat" alt="nishithd" /> </p>
 
 - 🔭 I’m currently working on **a Web Application based on MERN stack.**
