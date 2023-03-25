@@ -66,6 +66,9 @@
 </div>
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishithd&show_icons=true&locale=en&layout=compact" alt="nishithd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishithd&show_icons=true&locale=en" alt="nishithd" /></p>
 
 <p align="left"></p>
 
